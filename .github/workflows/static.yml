@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proof of Consent</title>
+</head>
+<body>
+    <h1>Proof of Consent for Receiving Verification Codes</h1>
+    <p>Users provide consent by entering their phone number in our mobile application and requesting a verification code.</p>
+    <p>The app clearly informs users that by entering their phone number and requesting a code, they agree to receive a one-time verification SMS.</p>
+    <p>This consent is recorded in our database along with the phone number and timestamp of consent.</p>
+    <h2>Sample Message:</h2>
+    <p>Your verification code is 123456.</p>
+</body>
+</html>
